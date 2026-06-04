@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mehdi MAACHI </h1>
-<h3 align="center">Full-Stack Developer (Java • Spring Boot • Angular • React) from Morocco<br>Building scalable enterprise apps by day, training and integrating LLMs by night.</h3>
+<h3 align="center">Full-Stack Developer (Java • Spring Boot • Angular • React) from Morocco<br>Building scalable enterprise apps by day, training and integrating LLMs by night. </h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=spartanmhd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
